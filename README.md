@@ -60,8 +60,6 @@ Acesse a página do portfólio interativo construída e implantada na Vercel:
 
 Desenvolvido por **Rafael Tozato**.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.tozato)
-
 ---
 
 ## 📬 Contatos
