@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](watermarked_img_7106003873057162698.jpg)
+![Banner](1792309462164.jpg)
 
 # 🚀 Design Patterns com Java & Spring Framework
 
