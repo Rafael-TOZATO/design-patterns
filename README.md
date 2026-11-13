@@ -104,6 +104,14 @@ O repositório adota controles de Governança 4.0 para garantir rastreabilidade,
 
 ---
 
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/codeql.yml)
+
+</div>
+
 ## 👤 Autor
 
 Desenvolvido por **Rafael Tozato**.
