@@ -17,11 +17,15 @@
 
 ---
 
+---
+
 ## 📌 Sobre o Projeto
 
 Este repositório contém a implementação prática e a landing page interativa desenvolvidas para o desafio de projeto da **Digital Innovation One (DIO)** sobre **Design Patterns com Java**.
 
 O objetivo principal é demonstrar na prática a aplicação dos padrões de projeto clássicos do **GoF (Gang of Four)** integrados às facilidades do **Spring Framework**, entregando um código desacoplado, reutilizável e pronto para produção.
+
+---
 
 ---
 
@@ -33,11 +37,15 @@ Acesse a página do portfólio interativo construída e implantada na Vercel:
 
 ---
 
+---
+
 ## 🧩 Padrões de Projeto Implementados
 
 - **Singleton:** Garantia de instância única para serviços do Spring (gerenciado pelo próprio container IoC/DI).
 - **Strategy:** Abstração de diferentes estratégias de comportamento e regras de negócio.
 - **Facade:** Interface unificada para simplificar a interação com subsistemas complexos (ex: consumo de APIs de CEP/Endereço via OpenFeign).
+
+---
 
 ---
 
@@ -50,9 +58,35 @@ Acesse a página do portfólio interativo construída e implantada na Vercel:
 
 ---
 
+---
+
 ## 📚 Referências
 
 - Repositório base do desafio na DIO: [digitalinnovationone/lab-padroes-projeto-java](https://github.com/digitalinnovationone/lab-padroes-projeto-java)
+
+---
+
+---
+
+## Governança 4.0 — Segurança e Qualidade
+
+Este repositório adota controles automatizados de Governança 4.0 para assegurar integridade dos artefatos e do código, rastreabilidade das alterações, gestão de dependências e prevenção de exposição de credenciais. Os controles são aplicados conforme a natureza técnica e os componentes efetivamente mantidos no projeto.
+
+- **Quality Gate:** validação automatizada do escopo do repositório, incluindo verificações de integridade, testes, análise estática, tipagem ou build quando aplicáveis.
+- **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
+- **SAST:** análise com GitHub CodeQL para linguagens suportadas e presentes no código-fonte.
+- **Dependências:** monitoramento automatizado e revisão de vulnerabilidades conforme os manifests e lockfiles existentes.
+- **Menor privilégio:** permissões mínimas nos workflows e checkout sem persistência desnecessária de credenciais.
+- **Rastreabilidade:** commits, execuções e resultados dos controles permanecem registrados no GitHub Actions.
+
+### Controles específicos do repositório
+
+O repositório adota controles de Governança 4.0 para garantir rastreabilidade, integridade da cadeia de suprimentos e qualidade de entrega contínua.
+- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
+- **SAST:** análise de JavaScript e TypeScript com GitHub CodeQL e consultas de segurança estendida.
+- **Segurança de segredos:** varredura integral do histórico Git com Gitleaks Action v3.0.0.
+- **Menor privilégio:** permissões mínimas nos workflows e credenciais de checkout não persistidas.
+- **Rastreabilidade:** histórico de commits, resultados e evidências disponíveis no GitHub Actions.
 
 ---
 
@@ -62,15 +96,23 @@ Desenvolvido por **Rafael Tozato**.
 
 ---
 
+---
+
 ## 💻 PROJETOS E PORTFÓLIOS
 - **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 - **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
+---
+
 ## 🐙 CÓDIGO E REPOSITÓRIOS
 - **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
+---
+
 ## ✍️ ARTIGOS E PUBLICAÇÕES
 - **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+
+---
 
 ## 📬 CONTATOS
 - **E-mail:** ornelas.tozato@gmail.com
@@ -84,23 +126,4 @@ Desenvolvido por **Rafael Tozato**.
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
-
 ---
-
-## Governança 4.0 — Segurança e Qualidade
-
-O repositório adota controles de Governança 4.0 para garantir rastreabilidade, integridade da cadeia de suprimentos e qualidade de entrega contínua.
-
-- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
-- **SAST:** análise de JavaScript e TypeScript com GitHub CodeQL e consultas de segurança estendida.
-- **Segurança de segredos:** varredura integral do histórico Git com Gitleaks Action v3.0.0.
-- **Menor privilégio:** permissões mínimas nos workflows e credenciais de checkout não persistidas.
-- **Rastreabilidade:** histórico de commits, resultados e evidências disponíveis no GitHub Actions.
-
-<div align="center">
-
-[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/quality-gate.yml)
-[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/gitleaks.yml)
-[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/codeql.yml)
-
-</div>
