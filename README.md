@@ -83,3 +83,24 @@ Desenvolvido por **Rafael Tozato**.
 - 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+
+
+---
+
+## Governança 4.0 — Segurança e Qualidade
+
+O repositório adota controles de Governança 4.0 para garantir rastreabilidade, integridade da cadeia de suprimentos e qualidade de entrega contínua.
+
+- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
+- **SAST:** análise de JavaScript e TypeScript com GitHub CodeQL e consultas de segurança estendida.
+- **Segurança de segredos:** varredura integral do histórico Git com Gitleaks Action v3.0.0.
+- **Menor privilégio:** permissões mínimas nos workflows e credenciais de checkout não persistidas.
+- **Rastreabilidade:** histórico de commits, resultados e evidências disponíveis no GitHub Actions.
+
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/codeql.yml)
+
+</div>
