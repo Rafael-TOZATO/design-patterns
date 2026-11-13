@@ -129,7 +129,7 @@ Desenvolvido por **Rafael Tozato**.
 - **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
 - **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)zato-dev-hub.vercel.app)
+- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
 - 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
