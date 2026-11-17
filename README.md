@@ -15,23 +15,11 @@
 
 </div>
 
----
-
----
-
----
-
 ## 📌 Sobre o Projeto
 
 Este repositório contém a implementação prática e a landing page interativa desenvolvidas para o desafio de projeto da **Digital Innovation One (DIO)** sobre **Design Patterns com Java**.
 
 O objetivo principal é demonstrar na prática a aplicação dos padrões de projeto clássicos do **GoF (Gang of Four)** integrados às facilidades do **Spring Framework**, entregando um código desacoplado, reutilizável e pronto para produção.
-
----
-
----
-
----
 
 ## 🌐 Demonstração On-line
 
@@ -39,23 +27,11 @@ Acesse a página do portfólio interativo construída e implantada na Vercel:
 
 👉 **[Acessar Landing Page do Projeto na Vercel](https://design-patterns-rosy.vercel.app)**
 
----
-
----
-
----
-
 ## 🧩 Padrões de Projeto Implementados
 
 - **Singleton:** Garantia de instância única para serviços do Spring (gerenciado pelo próprio container IoC/DI).
 - **Strategy:** Abstração de diferentes estratégias de comportamento e regras de negócio.
 - **Facade:** Interface unificada para simplificar a interação com subsistemas complexos (ex: consumo de APIs de CEP/Endereço via OpenFeign).
-
----
-
----
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -64,21 +40,9 @@ Acesse a página do portfólio interativo construída e implantada na Vercel:
 - **Next.js / React** (Interface Web do Portfólio)
 - **Vercel** (Hospedagem e CI/CD)
 
----
-
----
-
----
-
 ## 📚 Referências
 
 - Repositório base do desafio na DIO: [digitalinnovationone/lab-padroes-projeto-java](https://github.com/digitalinnovationone/lab-padroes-projeto-java)
-
----
-
----
-
----
 
 ## Governança 4.0 — Segurança e Qualidade
 
@@ -100,10 +64,6 @@ O repositório adota controles de Governança 4.0 para garantir rastreabilidade,
 - **Menor privilégio:** permissões mínimas nos workflows e credenciais de checkout não persistidas.
 - **Rastreabilidade:** histórico de commits, resultados e evidências disponíveis no GitHub Actions.
 
----
-
----
-
 <div align="center">
 
 [![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/design-patterns/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/design-patterns/actions/workflows/quality-gate.yml)
@@ -116,28 +76,19 @@ O repositório adota controles de Governança 4.0 para garantir rastreabilidade,
 
 Desenvolvido por **Rafael Tozato**.
 
----
-
----
-
----
-
 ## 📬 CONTATOS E PERFIS
 
-- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
----
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
 
-- **E-mail:** ornelas.tozato@gmail.com
-- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **Microsoft Learn:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
